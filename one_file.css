@@ -1,0 +1,217 @@
+
+body{
+    margin: 0;    
+}
+
+#main{
+    background-color: #e0e0d5;
+    height: 250vh;
+    width: 130vh;
+    text-align: left;
+    margin: 10px;
+    justify-content: space-between;
+}
+
+
+.box1{    
+    background-color: rgb(193, 186, 186);
+    height: auto;
+    margin: 0 auto;
+    float: center;
+    width: 93.33%;
+}
+
+
+p{
+    font-style: oblique;
+    margin: 30px;    
+}
+
+
+p1{
+    font-size: 50px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 30px;
+}
+
+
+.box2{
+    background-color: rgb(193, 186, 186);
+    size: 20;
+    height: 30vh;
+    margin: 25px 24px;
+    width: 20%;
+    display: inline-block;
+    text-align: center;
+}
+
+
+.box3{
+    background-color: rgb(193, 186, 186);
+    size: 20;
+    float: left;
+    height: 30vh;
+    margin: 25px 24px;
+    width: 20%;
+    text-align: center;
+
+}
+
+
+.box4{
+    background-color:rgb(193, 186, 186);
+    size: 20;
+    float: right;
+    height: 30vh;
+    margin: 25px 24px;
+    width: 20%;
+    text-align: center;
+
+}
+
+
+.box5{
+    float: right;
+    background-color:rgb(193, 186, 186);
+    size: 20;
+    height: 30vh;
+    margin: 25px 24px;
+    width: 20%;
+    text-align: center;
+
+}
+
+button{
+    background-color: rgb(167, 167, 167);
+    border: none;
+    color: rgb(38, 34, 34);
+    padding: 10px  20px;
+    text-decoration: none;
+    display: inline-block;
+    margin: 40px 30px;
+    cursor: pointer;
+    border-radius: 16px;
+}
+ 
+.box7 button{
+    background-color: #ddd;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+}
+
+#backG{
+    background-color: rgb(193, 186, 186);
+    margin: 10px;
+}
+
+
+.box6{
+    background-color: hsla(0, 2%, 61%, 0.677);
+    height: 40vh;
+    margin: 20px;
+    width: 25%;
+    display: inline-block;
+    text-align: center;
+}
+
+.box7{
+    display: right;
+    float: right;
+    /* background-color: rgb(193, 186, 186); */
+    /* text-align: left; */
+    margin: 15px; 
+    height: 40vh;
+     width: 600px; 
+    display: flexbox;
+} 
+
+.box8{
+    background-color: rgb(193, 186, 186);
+    size: 20;
+    height: 30vh;
+    margin: 25px 24px;
+    width: 20%;
+    display: inline-block;
+    text-align: center;
+}
+
+.box9{
+    background-color: rgb(193, 186, 186);
+    size: 20;
+    float: left;
+    height: 30vh;
+    margin: 25px 24px;
+    width: 20%;
+    text-align: center;
+}
+
+.box10{
+    background-color:rgb(193, 186, 186);
+    size: 20;
+    float: right;
+    height: 30vh;
+    margin: 25px 24px;
+    width: 20%;
+    text-align: center;
+}
+
+.box11{
+    float: right;
+    background-color:rgb(193, 186, 186);
+    size: 20;
+    height: 30vh;
+    margin: 25px 24px;
+    width: 20%;
+    text-align: center;
+}
+
+.box12{
+    background-color: rgb(193, 186, 186);
+    size: 20;
+    height: 30vh;
+    margin: 25px 24px;
+    width: 20%;
+    display: inline-block;
+    text-align: center;
+}
+
+.box13{
+    background-color: rgb(193, 186, 186);
+    size: 20;
+    float: left;
+    height: 30vh;
+    margin: 25px 24px;
+    width: 20%;
+    text-align: center;
+}
+
+
+
+.box15{
+    float: right;
+    background-color:rgb(193, 186, 186);
+    size: 20;
+    height: 30vh;
+    margin: 25px 24px;
+    width: 20%;
+    text-align: center;
+}
+
+.box14{
+    background-color:rgb(193, 186, 186);
+    size: 20;
+    float: right;
+    height: 30vh;
+    margin: 25px 24px;
+    width: 20%;
+    text-align: center;
+}
+
+
